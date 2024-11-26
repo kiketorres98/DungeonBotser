@@ -1,4 +1,4 @@
-**DungeonBotster: Your Ultimate D&D Companion**
+**DungeonBotster: Your Ultimate D&D Companion for ChatGPT**
 
 Welcome to DungeonBotster, your ultimate companion for Dungeons & Dragons adventures! Whether you're a seasoned Dungeon Master or a complete beginner, DungeonBotster helps bring your campaigns to life. With storytelling made effortless, every adventure feels uniquely yours.
 
@@ -17,7 +17,10 @@ DungeonBotster acts as a digital Dungeon Master, guiding players through immersi
 
 DungeonBotster is more than just a game tool—it's your storytelling ally. It provides a seamless D&D experience by handling mechanics, so you can focus on the fun parts: adventuring, roleplaying, and enjoying epic moments. Perfect for in-person, virtual, or hybrid games, DungeonBotster adapts to your needs.
 
-**Get Started**
+Get Started
 
-Dive into adventure with DungeonBotster. Create memorable stories, challenge your players, and explore limitless possibilities—all while DungeonBotster takes care of the rules and brings the magic to life. Let the adventure begin!
+Dive into adventure with DungeonBotster. Create memorable stories, challenge your players, and explore limitless possibilities—all while DungeonBotster takes care of the rules and brings the magic to life. To start playing, copy this text into a new ChatGPT conversation and let the adventure begin!
 
+Hope you like it!
+
+Enrique
